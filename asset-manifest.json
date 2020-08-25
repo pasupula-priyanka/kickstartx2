@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kickstartx2/static/css/main.9ee9cc8c.chunk.css",
+    "main.js": "/kickstartx2/static/js/main.24d601ab.chunk.js",
+    "main.js.map": "/kickstartx2/static/js/main.24d601ab.chunk.js.map",
+    "runtime-main.js": "/kickstartx2/static/js/runtime-main.3329917e.js",
+    "runtime-main.js.map": "/kickstartx2/static/js/runtime-main.3329917e.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/kickstartx2/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.98ee01a6.chunk.js": "/kickstartx2/static/js/2.98ee01a6.chunk.js",
+    "static/js/2.98ee01a6.chunk.js.map": "/kickstartx2/static/js/2.98ee01a6.chunk.js.map",
+    "index.html": "/kickstartx2/index.html",
+    "precache-manifest.62f1bbd242eb0e42ce13d892129609e5.js": "/kickstartx2/precache-manifest.62f1bbd242eb0e42ce13d892129609e5.js",
+    "service-worker.js": "/kickstartx2/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/kickstartx2/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.9ee9cc8c.chunk.css.map": "/kickstartx2/static/css/main.9ee9cc8c.chunk.css.map",
+    "static/js/2.98ee01a6.chunk.js.LICENSE.txt": "/kickstartx2/static/js/2.98ee01a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3329917e.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.98ee01a6.chunk.js",
+    "static/css/main.9ee9cc8c.chunk.css",
+    "static/js/main.24d601ab.chunk.js"
+  ]
+}
